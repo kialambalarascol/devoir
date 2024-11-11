@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+    font-family: Verdana;
+}
+h2{
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+.h3blue{
+    color:blue;
+    font-style: italic;
+}
+
+p{
+    background-color: green;
+    text-decoration-color: green;
+    text-align : bottom ;
+}
+
+table{
+    border:solid;
+    text-align: left;
+}
+
+div{
+    float: right;
+}
+
+th{
+    color: black;
+}
